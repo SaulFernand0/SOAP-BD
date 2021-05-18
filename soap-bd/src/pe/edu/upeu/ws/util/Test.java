@@ -13,9 +13,6 @@ public class Test {
 		System.out.println(cliente.readVenta("2021-05-04", "2021-05-10", 1).getNombres());
 		System.out.println(cliente.readVenta("2021-05-04", "2021-05-10", 1).getApellidos());
 		System.out.println(cliente.readVenta("2021-05-04", "2021-05-10", 1).getDireccion());
-
-		
-		
-		
+	
 	}
 }
